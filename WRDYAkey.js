@@ -3,7 +3,7 @@
 loopy() 
  function loopy() { 
  var sWord ="mrwanxX" 
- while (sWord != "@mrwanxios-monthsx") {// Pass
+ while (sWord != "ZBZBI") {// Pass
  sWord = prompt("𝘌𝘯𝘵𝘦𝘳 𝘛𝘩𝘦 𝘒𝘦𝘺 :")  
  } 
  
