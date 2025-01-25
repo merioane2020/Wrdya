@@ -60,9 +60,13 @@
 
 
 
-     function dis() {
+     function tele() {
     location.href = "https://t.me/mrwanxios";
 }
+ function tele1() {
+    location.href = "https://t.me/mrwanx";
+}
+
 
 function s101s() {
   alert('AWM SWITCH DONE')
